@@ -1,0 +1,10 @@
+{
+  "name": "gestor-financeiro-2.0-api",
+  "version": "2.0.0",
+  "description": "Api to manage domestic finances and investiments",
+  "main": "src/index.ts",
+  "repository": "git@github.com:lczapparolli/gestor-financeiro-2.0-api.git",
+  "author": "Luis Carlos Zapparolli Neto <lczapparolli@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
