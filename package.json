@@ -18,10 +18,12 @@
     "@typescript-eslint/parser": "^4.29.0",
     "eslint": "^7.32.0",
     "jest": "^27.0.6",
+    "nodemon": "^2.0.12",
     "ts-node": "^10.1.0",
     "typescript": "^4.3.5"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "nodemon src/index.ts"
   }
 }
